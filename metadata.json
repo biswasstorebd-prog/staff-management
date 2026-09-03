@@ -1,0 +1,6 @@
+{
+  "name": "স্টাফ মুভমেন্ট ও হাজিরা ব্যবস্থাপনা সিস্টেম",
+  "description": "সার্বজনীন কর্মী উপস্থিতি, ফিল্ড মুভমেন্ট ট্র্যাকিং এবং ডিএসআর ক্যাশ লেনদেন অডিট ম্যানেজমেন্ট সিস্টেম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
